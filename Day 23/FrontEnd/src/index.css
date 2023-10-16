@@ -1,0 +1,9 @@
+body{
+  background-color: #ffffff!important;
+  color: rgb(0, 0, 0);
+}
+small.text-danger{
+  background-color: rgb(255, 255, 255);
+  margin-top: 5px;
+  padding: 0 5px;
+}
